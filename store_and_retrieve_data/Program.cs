@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+/*
 Console.WriteLine("Hello"); // String literal
 Console.WriteLine('b'); // Character literal
 Console.WriteLine(123); // Integer literal
@@ -9,3 +10,14 @@ Console.WriteLine(12.39816M); // Decimal literal
 
 Console.WriteLine(true); // Boolean literal
 Console.WriteLine(false); // Boolean literal
+*/
+
+string firstName;
+
+char userOption;
+
+int gameScore;
+
+decimal particlesPerMillion;
+
+bool processedCustomer;
