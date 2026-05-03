@@ -13,11 +13,19 @@ Console.WriteLine(false); // Boolean literal
 */
 
 string firstName;
-
-char userOption;
-
-int gameScore;
-
-decimal particlesPerMillion;
-
-bool processedCustomer;
+firstName = "Justin";
+Console.WriteLine(firstName);
+firstName = "Lio";
+Console.WriteLine(firstName);
+firstName = "Miki";
+Console.WriteLine(firstName);
+firstName = "Vanessa";
+Console.WriteLine(firstName);
+firstName = "Edgar";
+Console.WriteLine(firstName);
+firstName = "Sean";
+Console.WriteLine(firstName);
+firstName = "Veronica";
+Console.WriteLine(firstName);
+firstName = "Coco";
+Console.WriteLine(firstName);
