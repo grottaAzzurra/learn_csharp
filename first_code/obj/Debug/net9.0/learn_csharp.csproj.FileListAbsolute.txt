@@ -1,0 +1,14 @@
+C:\Users\home\Documents\GitHub\provision\learn_csharp\bin\Debug\net9.0\learn_csharp.exe
+C:\Users\home\Documents\GitHub\provision\learn_csharp\bin\Debug\net9.0\learn_csharp.deps.json
+C:\Users\home\Documents\GitHub\provision\learn_csharp\bin\Debug\net9.0\learn_csharp.runtimeconfig.json
+C:\Users\home\Documents\GitHub\provision\learn_csharp\bin\Debug\net9.0\learn_csharp.dll
+C:\Users\home\Documents\GitHub\provision\learn_csharp\bin\Debug\net9.0\learn_csharp.pdb
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.AssemblyInfoInputs.cache
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.AssemblyInfo.cs
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.dll
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\refint\learn_csharp.dll
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.pdb
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\learn_csharp.genruntimeconfig.cache
+C:\Users\home\Documents\GitHub\provision\learn_csharp\obj\Debug\net9.0\ref\learn_csharp.dll

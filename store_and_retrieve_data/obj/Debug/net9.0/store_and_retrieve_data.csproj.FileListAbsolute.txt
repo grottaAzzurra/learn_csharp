@@ -1,0 +1,14 @@
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\bin\Debug\net9.0\store_and_retrieve_data.exe
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\bin\Debug\net9.0\store_and_retrieve_data.deps.json
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\bin\Debug\net9.0\store_and_retrieve_data.runtimeconfig.json
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\bin\Debug\net9.0\store_and_retrieve_data.dll
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\bin\Debug\net9.0\store_and_retrieve_data.pdb
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.AssemblyInfoInputs.cache
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.AssemblyInfo.cs
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.dll
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\refint\store_and_retrieve_data.dll
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.pdb
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\store_and_retrieve_data.genruntimeconfig.cache
+C:\Users\home\Documents\GitHub\provision\learn_csharp\store_and_retrieve_data\obj\Debug\net9.0\ref\store_and_retrieve_data.dll
