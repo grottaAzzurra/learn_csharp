@@ -12,11 +12,8 @@ Console.WriteLine(true); // Boolean literal
 Console.WriteLine(false); // Boolean literal
 */
 
-string firstName = "Justin";
-Console.WriteLine(firstName);
+string firstName = "Bob";
+int firstNumber = 3;
+float secondNumber = 34.4F;
 
-var message = "Hello, new developer!";
-Console.WriteLine(message);
-
-message = "It's fine to use var when you are first planning code. But when you figure out what data types to use, it's better to be explicit when possible.";
-Console.WriteLine(message);
+Console.WriteLine("Hello, " + firstName + "! You have " + firstNumber + " messages in your inbox. The temperature outside is " + secondNumber + " degrees Celsius.");
