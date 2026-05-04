@@ -12,20 +12,11 @@ Console.WriteLine(true); // Boolean literal
 Console.WriteLine(false); // Boolean literal
 */
 
-string firstName;
-firstName = "Justin";
+string firstName = "Justin";
 Console.WriteLine(firstName);
-firstName = "Lio";
-Console.WriteLine(firstName);
-firstName = "Miki";
-Console.WriteLine(firstName);
-firstName = "Vanessa";
-Console.WriteLine(firstName);
-firstName = "Edgar";
-Console.WriteLine(firstName);
-firstName = "Sean";
-Console.WriteLine(firstName);
-firstName = "Veronica";
-Console.WriteLine(firstName);
-firstName = "Coco";
-Console.WriteLine(firstName);
+
+var message = "Hello, new developer!";
+Console.WriteLine(message);
+
+message = "It's fine to use var when you are first planning code. But when you figure out what data types to use, it's better to be explicit when possible.";
+Console.WriteLine(message);
