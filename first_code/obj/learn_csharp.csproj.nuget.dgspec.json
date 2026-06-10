@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\learn_csharp.csproj": {}
+    "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\first_code\\learn_csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\learn_csharp.csproj": {
+    "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\first_code\\learn_csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\learn_csharp.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\first_code\\learn_csharp.csproj",
         "projectName": "learn_csharp",
-        "projectPath": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\learn_csharp.csproj",
+        "projectPath": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\first_code\\learn_csharp.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\obj\\",
+        "outputPath": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\first_code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
