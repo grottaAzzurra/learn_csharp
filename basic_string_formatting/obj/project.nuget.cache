@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLBr5F6GVOI=",
+  "dgSpecHash": "6tTUFf1wpBk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\home\\Documents\\GitHub\\provision\\learn_csharp\\basic_string_formatting\\basic_string_formatting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_string_formatting\\basic_string_formatting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\work\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
