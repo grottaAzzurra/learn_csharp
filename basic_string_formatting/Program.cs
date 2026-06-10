@@ -1,3 +1,3 @@
 ﻿string firstName = "Justin";
-string greeting = "Hello";
-Console.WriteLine(greeting + " " + firstName + "!");
+string message = $"Hello {firstName}!";
+Console.WriteLine(message);
