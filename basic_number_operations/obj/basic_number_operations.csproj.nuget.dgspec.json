@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj": {}
+    "C:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj": {}
   },
   "projects": {
-    "c:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj": {
+    "C:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj",
+        "projectUniqueName": "C:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj",
         "projectName": "basic_number_operations",
-        "projectPath": "c:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj",
+        "projectPath": "C:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\basic_number_operations.csproj",
         "packagesPath": "C:\\Users\\work\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\obj\\",
+        "outputPath": "C:\\Users\\work\\Documents\\GitHub\\provision\\learn_csharp\\basic_number_operations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\work\\AppData\\Roaming\\NuGet\\NuGet.Config"
